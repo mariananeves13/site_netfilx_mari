@@ -1,6 +1,6 @@
 :root {
     --lilais-principal: #FFFFFF;
-    --cinza-secundario: #C0C0C0;
+    --Fuchsia-secundario: #FF00FF;
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
     --fonte-principal: 'Inter';
@@ -84,7 +84,7 @@ body {
 }
 
 .descricao__texto {
-    color: var(--cinza-secundario);
+    color: var(--Fuchsia-secundario);
 }
 
 .secundario__botao {
@@ -137,7 +137,7 @@ body {
 
 .rodape__texto {
     margin: 1em 0;
-    color: var(--cinza-secundario);
+    color: var(--Fuchsia-secundario);
     font-size: 14px;
 }
 
