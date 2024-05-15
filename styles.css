@@ -1,10 +1,10 @@
 :root {
-    --lilais-principal: #FFFFFF;
-    --Fuchsia-secundario: #FF00FF;
-    --botao-azul: #167BF7;
-    --cor-de-fundo: #00030C;
+    --lilais-principal: #cb77dc;
+    --Fuchsia-secundario: #ff0044c5;
+    --botao-azul: #d82d6fbb;
+    --cor-de-fundo: #4a2f67;
     --fonte-principal: 'Inter';
-    --botao-azul-efeito: #3c92fa;
+    --botao-azul-efeito: #126a74;
 }
 
 body {
